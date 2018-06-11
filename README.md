@@ -6,4 +6,4 @@ This is based on the Tactix 410mm organiser from bunnings warehouse. (410x330x60
 
 This is all Glued together, no other fixings needed for me. 
 
-I used 6mm ply for the shelves and 12mm for the sides. I have drawn a backing board in the design but I didn’t use it. I used some small angle brackets and used the existing plywood wall as the backing board. If you do want a backing board, its probably easier to cut this with a table or circular saw anyway as its just a rectangle!
+I used 6mm ply for the shelves and 12mm for the sides. I have drawn a backing board in the design but I didn't use it. I used some small angle brackets and used the existing plywood wall as the backing board. If you do want a backing board, its probably easier to cut this with a table or circular saw anyway as its just a rectangle!
